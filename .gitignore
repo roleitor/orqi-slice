@@ -1,0 +1,5 @@
+node_modules/
+coverage/
+.archify/
+*.log
+.DS_Store
